@@ -1,6 +1,7 @@
-# Simple-Twitter-Like-Feed-
+# Simple Twitter-Like Feed
 
 It is a simple twitter feed website made using **`  Express`**, **`  Nodejs `** and **`  MongoDB`**.
+
 
 ### To Start
 
@@ -10,5 +11,8 @@ It is a simple twitter feed website made using **`  Express`**, **`  Nodejs `** 
     npm install
     npm start
     ```
+1. Requires MongoDB , so download MongoDB from [here.](https://www.mongodb.com/try/download/community)
+1. Open the __`index.html`__ from Client folder
 
- 1. Open the __`index.html`__ from Client folder
+
+## Screenshots
