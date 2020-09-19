@@ -16,5 +16,5 @@ It is a simple twitter feed website made using **`  Express`**, **`  Nodejs `** 
 1. Open the __`index.html`__ from Client folder
 
 ---
-## Screenshots
-![img1](./Client/images/"site still.PNG " raw=true)
+## Screenshot
+![image](https://user-images.githubusercontent.com/55682219/93690588-ae846600-faf7-11ea-81e9-f0d1e9e5784b.png)
