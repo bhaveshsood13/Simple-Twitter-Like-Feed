@@ -9,6 +9,6 @@ It is a simple twitter feed website made using **`  Express`**, **`  Nodejs `** 
     ``` javascript 
     npm install
     npm start
-```
-1. Then write npm start.
-1. Open the index.html from Client folder
+    ```
+
+ 1. Open the __`index.html`__ from Client folder
